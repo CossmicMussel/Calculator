@@ -1,4 +1,4 @@
-print("This is v1 calculator script (addition and subtraction only)")
+print("This is v2 calculator script (addition and subtraction only)")
 print("please choose an operation: ")
 print("1. Addition")
 print("2. Subtraction")
